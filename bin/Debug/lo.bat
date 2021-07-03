@@ -1,0 +1,1 @@
+lb3.exe < lo.txt > gf.svg

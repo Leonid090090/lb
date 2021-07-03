@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1624712583 source:c:\users\w1thoutiq\desktop\lb3\svg.cpp
+	<iostream>
+	<vector>
+	"svg.h"
+
+1624713198 c:\users\w1thoutiq\desktop\lb3\svg.h
+	<vector>
+	<string>
+
+1624713960 source:c:\users\w1thoutiq\desktop\lb3\indtest\indtest.cpp
+	<iostream>
+	<vector>
+	"C:\Users\w1thoutiq\Desktop\lb3\svg.h"
+	<cassert>
+

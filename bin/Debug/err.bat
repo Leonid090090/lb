@@ -1,0 +1,1 @@
+lb3.exe file:///C:/Users/w1thoutiq/Desktop/lb3/bin/Debug/lo.txt > gf.svg
